@@ -15,7 +15,7 @@
 
     <ul>
         <li>
-            <a href="Caracteres%20especiales%20-%20copia.html">
+            <a href="Caracteres%20Especiales%20-%20copia.html">
                 Caracteres especiales
             </a>
         </li>
