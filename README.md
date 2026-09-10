@@ -2,25 +2,33 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Mis páginas web</title>
+    <title>Mi proyecto web</title>
 </head>
 <body>
 
-    <h1>Hola a todos</h1>
+    <h1>Mis páginas web</h1>
 
-    <p>Estas son mis páginas web:</p>
+    <a href="INDEX11.html">Página hola todos</a><br><br>
 
-    <ul>
-        <li><a href="Caracteres%20Especiales%20-%20copia.html">Caracteres Especiales</a></li>
+    <a href="Caracteres%20Especiales%20-%20copia.html">
+        Caracteres especiales
+    </a><br><br>
 
-        <li><a href="Himno_Colombia%2011-1.html">Himno de Colombia</a></li>
+    <a href="Himno_Colombia%2011-1.html">
+        Himno de Colombia
+    </a><br><br>
 
-        <li><a href="diccionario_tecnico_2-111.html">Diccionario técnico</a></li>
+    <a href="diccionario_tecnico_2-111.html">
+        Diccionario técnico
+    </a><br><br>
 
-        <li><a href="diccionarioinglessoftware11.html">Diccionario inglés de software</a></li>
+    <a href="diccionarioinglessoftware11.html">
+        Diccionario inglés de software
+    </a><br><br>
 
-        <li><a href="poemalafuerzadelossuenos11-1.html">Poema La fuerza de los sueños</a></li>
-    </ul>
+    <a href="poemalafuerzadelossuenos11-1.html">
+        Poema La fuerza de los sueños
+    </a>
 
 </body>
 </html>
