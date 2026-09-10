@@ -12,7 +12,8 @@
     Página hola todos
     </a><br><br>
 
-    <a href="Caracteres.html">
+    <a
+    href="Caracteres.html">
         Caracteres especiales
     </a>
     <br><br>
