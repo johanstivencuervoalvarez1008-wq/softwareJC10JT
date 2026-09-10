@@ -11,7 +11,7 @@
     <p>Estas son mis páginas web:</p>
 
     <ul>
-        <li><a href="Caracteres%20Especiales%20-%20copia.html">Caracteres especiales</a></li>
+        <li><a href="Caracteres%20Especiales%20-%20copia.html">Caracteres Especiales</a></li>
 
         <li><a href="Himno_Colombia%2011-1.html">Himno de Colombia</a></li>
 
