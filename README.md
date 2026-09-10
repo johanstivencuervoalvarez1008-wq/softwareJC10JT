@@ -8,9 +8,9 @@
 
     <h1>Mis páginas web</h1>
 
-    <a href="INDEX11.html">Página principal</a><br><br>
+    <a href="INDEX11.html">hola_todos</a><br><br>
 
-    <a href="Caracteres%20Especiales%20-%20copia.html">
+    <a href="CaracteresEspeciales%20-%20copia.html">
         Caracteres especiales
     </a><br><br>
 
