@@ -12,7 +12,7 @@
     Página hola todos
     </a><br><br>
 
-    <ahref="Caracteres%20Especiales%20-%20copia.html">
+    <ahref="Caracteres.html">
         Caracteres especiales
     </a>
     <br><br>
