@@ -12,9 +12,10 @@
     Página hola todos
     </a><br><br>
 
-    <ahref="Caracteres%20Especiales%20-%20%20copia.html">
+    <ahref="Caracteres%20Especiales%20-%20copia.html">
         Caracteres especiales
-    </a><br><br>
+    </a>
+    <br><br>
 
     <a href="Himno_Colombia%2011-1.html">
         Himno de Colombia
